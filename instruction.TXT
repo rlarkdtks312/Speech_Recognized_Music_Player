@@ -1,0 +1,5 @@
+*Notifies you that i have used Google Voice recognition technology and refer site(brunch.co.kr).
+
+1.Things to fo before writing the code
+ (1). pip3 -m pip install speechrecognition / To use a module(speech_recognition)
+ (2). sudi python3 -m pip install pyaudio / To use  a microphone
